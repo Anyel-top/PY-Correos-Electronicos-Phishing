@@ -1,7 +1,3 @@
-Claro, aquí tienes dos `readme.md` para cada uno de los códigos proporcionados:
-
----
-
 # Clasificación con Árbol de Decisiones
 
 Este script `clasificacion_arbol_decision.py` se centra en la clasificación de un conjunto de datos utilizando un clasificador de árbol de decisiones. A continuación, se proporciona una descripción general de lo que hace el script:
